@@ -1,0 +1,5 @@
+export const GET_LESSON = "GET_LESSON";
+export const GET_DETAIL_LESSON = "GET_DETAIL_LESSON";
+export const DELETE_LESSON = "DELETE_LESSON";
+export const CREATE_LESSON = "CREATE_LESSON";
+export const UPDATE_LESSON = "UPDATE_LESSON";
